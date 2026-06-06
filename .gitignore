@@ -49,3 +49,8 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+# Excel temporary and backup files
+~$*
+*.tmp
+*.xlk
